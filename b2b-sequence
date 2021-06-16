@@ -1,9 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T19:35:14.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="mo4saD05lEmbBLhNxXO1" version="14.7.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-16T20:41:53.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="yIzbsQewAbQuRK6ShPxm" version="14.7.10" type="github" pages="2">
   <diagram id="8pqjkWyUHJ6GIpEB6viq" name="Page-1">
-    <mxGraphModel dx="757" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PungSDXXswC55qRxk6ui-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ul style=&quot;font-size: 16px; font-style: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none; box-sizing: inherit; margin: 20px 0px 1.25rem 1.1rem; padding: 0px; font-family: lora, arial, serif; line-height: 1.6; list-style-position: outside; color: rgb(37, 49, 60); background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма прецедентов (Use-case diagram);&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма классов (Class diagram);&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма активностей (Activity diagram);&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма последовательности (Sequence diagram);&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма развёртывания (Deployment diagram);&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма сотрудничества (Collaboration diagram);&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма объектов (Object diagram);&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17px ; line-height: 27.200000762939453px ; list-style: square ; width: 497.921875px ; color: black ; font-family: &amp;quot;lora&amp;quot; , serif &amp;quot;important&amp;quot;&quot;&gt;Диаграмма состояний (Statechart diagram).&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-140" width="550" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-2" value="&lt;h2 dir=&quot;ltr&quot; style=&quot;font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; box-sizing: inherit ; padding: 0px ; color: rgb(48 , 48 , 48) ; text-align: center ; transition: all 0.3s ; background-color: rgb(255 , 255 , 255) ; margin: 50px 0px 30px ; line-height: 41px ; font-size: 41px&quot;&gt;&lt;span style=&quot;box-sizing: inherit ; margin: 0px&quot;&gt;Sequence Diagram&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: inherit ; margin: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-3" value="Список КОНТРАГЕНТІВ" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-4" value="Користувач" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-5" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;fontColor=#000000;labelBorderColor=none;strokeWidth=2;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1020" as="sourcePoint" />
+            <mxPoint x="100" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-6" value="Список СКЛАДІВ" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-7" value="Список &lt;br&gt;НАСТРОЙОК ДОСТАВКИ" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="810" y="430" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-8" value="Список &amp;nbsp;РЕЙСІВ" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="430" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-9" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;fontColor=#000000;entryX=0.477;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;strokeWidth=2;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1020" as="sourcePoint" />
+            <mxPoint x="540" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-11" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;strokeWidth=2;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="1020" as="sourcePoint" />
+            <mxPoint x="780" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-12" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;strokeWidth=2;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925" y="1010" as="sourcePoint" />
+            <mxPoint x="780" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-13" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;fontColor=#000000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1218" y="1010" as="sourcePoint" />
+            <mxPoint x="1230" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-18" value="вибрав контрагента" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="580" as="sourcePoint" />
+            <mxPoint x="306" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-19" value="оновлюється список" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;exitX=1.133;exitY=0.658;exitDx=0;exitDy=0;exitPerimeter=0;align=center;" edge="1" parent="1" source="PungSDXXswC55qRxk6ui-15" target="PungSDXXswC55qRxk6ui-20">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="550" y="700" as="sourcePoint" />
+            <mxPoint x="880" y="639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="915" y="600" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-21" value="оновлюється список" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="PungSDXXswC55qRxk6ui-20">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="830" y="710" as="sourcePoint" />
+            <mxPoint x="1208" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="640" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="604" y="740" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-24" value="вибрав склад" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;entryX=0.067;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-23">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="570" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-25" value="оновлюється список" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;exitX=1.2;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;align=center;" edge="1" parent="1" source="PungSDXXswC55qRxk6ui-23" target="PungSDXXswC55qRxk6ui-22">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="331.3299999999999" y="648.96" as="sourcePoint" />
+            <mxPoint x="850" y="801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-28" value="вибрав настройку доставки" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-29">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="79.33" y="911.04" as="sourcePoint" />
+            <mxPoint x="900" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="914" y="870" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-30" value="оновлюється список" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;align=center;entryX=-0.367;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PungSDXXswC55qRxk6ui-22">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="930" y="942" as="sourcePoint" />
+            <mxPoint x="1220" y="810.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PungSDXXswC55qRxk6ui-31" value="&lt;h2 dir=&quot;ltr&quot; style=&quot;font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; box-sizing: inherit ; padding: 0px ; color: rgb(48 , 48 , 48) ; text-align: center ; transition: all 0.3s ; background-color: rgb(255 , 255 , 255) ; margin: 50px 0px 30px ; line-height: 41px ; font-size: 41px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Швидка &amp;nbsp;відгрузка каталога&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="640" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
