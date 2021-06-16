@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T20:49:11.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="9uQY_Wq6DMe2ktlNlomy" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T20:54:28.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="ASeyAtbfEkwFcoJ_UtSu" version="14.7.10" type="github">
   <diagram id="8pqjkWyUHJ6GIpEB6viq" name="Andrew Rymaruk">
-    <mxGraphModel dx="1893" dy="2589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="2792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,24 @@
         </mxCell>
         <mxCell id="2UKDMXcg4dqFWZHR2FkM-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1492" y="990" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8I6XZCWWrekLrNPlURUr-1" value="Форма створення настр. доставки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="430" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8I6XZCWWrekLrNPlURUr-2" value="" style="endArrow=none;dashed=1;html=1;fontSize=17;fontColor=#000000;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8I6XZCWWrekLrNPlURUr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1783" y="1120" as="sourcePoint" />
+            <mxPoint x="1580" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8I6XZCWWrekLrNPlURUr-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1050" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8I6XZCWWrekLrNPlURUr-4" value="відкрита форма" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=17;fontColor=#000000;strokeWidth=2;align=center;entryX=0.1;entryY=0.729;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8I6XZCWWrekLrNPlURUr-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1502" y="1100" as="sourcePoint" />
+            <mxPoint x="1760" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
